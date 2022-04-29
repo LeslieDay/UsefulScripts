@@ -12,7 +12,9 @@ Use GenerationCalculator.py to calculate number of generations/doublings of a cu
  $python GenerationCalculator2.py file.txt 
  ```
 
-R Script to generate ![image](https://user-images.githubusercontent.com/92818902/165995315-927f4e97-a130-4b21-a7a3-ed644c46a948.png)
+R Script used to generate 
+
+![image](https://user-images.githubusercontent.com/92818902/165995315-927f4e97-a130-4b21-a7a3-ed644c46a948.png)
 
 ```R
 # script for analyzing fdh and H2 axenic growth on formate and H2 
