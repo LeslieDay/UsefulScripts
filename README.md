@@ -263,3 +263,8 @@ tndata_long %>% filter(count_type == "RPKM_log2FC") %>% filter(old_locus_tag == 
   scale_x_continuous(limits=c(0,30)) + 
   theme_classic()
 ```
+
+051922-WTsyntrophy.R 
+![image](https://user-images.githubusercontent.com/92818902/169607761-e89de370-ed37-415c-8771-86b624413307.png)
+
+
