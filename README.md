@@ -266,5 +266,6 @@ tndata_long %>% filter(count_type == "RPKM_log2FC") %>% filter(old_locus_tag == 
 
 051922-WTsyntrophy.R 
 ![image](https://user-images.githubusercontent.com/92818902/169607761-e89de370-ed37-415c-8771-86b624413307.png)
-
+[synaxenic-supplement.pdf](https://github.com/LeslieDay/UsefulScripts/files/8773495/synaxenic-supplement.pdf)
+[SynAxenicGrowth-supp.pdf](https://github.com/LeslieDay/UsefulScripts/files/8773496/SynAxenicGrowth-supp.pdf)
 
